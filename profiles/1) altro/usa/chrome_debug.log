@@ -1,0 +1,10 @@
+[18732:18732:1028/151711.494690:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dpassive%26hl%3Den%26next%3D%252Fsignin_passive&hl=en&passive=true&service=youtube&uilel=3' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/watch?v=qaM80BjvLuA (0)
+[18732:18732:1028/151712.005020:INFO:CONSOLE(1)] "get returns [object Object] /settings undefined", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/background.js (1)
+[18732:18732:1028/151712.201272:INFO:CONSOLE(36)] "yttrex version 1.4.2", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (36)
+[18732:18732:1028/151712.201377:INFO:CONSOLE(36)] "[object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (36)
+[18732:18732:1028/151712.214296:INFO:CONSOLE(1)] "get returns [object Object] local [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/background.js (1)
+[18732:18732:1028/151712.214363:INFO:CONSOLE(27)] "sending back from userLookup local [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/background.js (27)
+[18732:18732:1028/151712.521309:INFO:CONSOLE(8550)] "observer method `collapsedChange_` not defined", source: https://www.youtube.com/s/desktop/a90036ea/jsbin/desktop_polymer_inlined_html_polymer_flags.vflset/desktop_polymer_inlined_html_polymer_flags.js (8550)
+[18732:18732:1028/151712.647076:INFO:CONSOLE(36)] "app.js gets [object Object] from localLookup", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (36)
+[18732:18732:1028/151713.675700:INFO:CONSOLE(35)] "windowUnload undefined", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[18732:18732:1028/151716.442195:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

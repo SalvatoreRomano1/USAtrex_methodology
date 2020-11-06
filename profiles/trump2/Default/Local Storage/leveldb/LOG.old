@@ -1,0 +1,6 @@
+2020/11/06-05:33:48.434 11a5 Reusing MANIFEST /home/salvo/hugo/yttrex/methodology/profiles/trump2/Default/Local Storage/leveldb/MANIFEST-000001
+2020/11/06-05:33:48.434 11a5 Recovering log #3
+2020/11/06-05:33:48.435 11a5 Reusing old log /home/salvo/hugo/yttrex/methodology/profiles/trump2/Default/Local Storage/leveldb/000003.log 
+2020/11/06-05:35:51.865 11a3 Level-0 table #5: started
+2020/11/06-05:35:51.891 11a3 Level-0 table #5: 12709 bytes OK
+2020/11/06-05:35:51.930 11a3 Delete type=0 #3

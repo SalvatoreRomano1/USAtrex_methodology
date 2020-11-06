@@ -1,0 +1,7 @@
+2020/11/06-05:55:01.075 209a Reusing MANIFEST /home/salvo/hugo/yttrex/methodology/profiles/biden1/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/06-05:55:01.076 209a Recovering log #3
+2020/11/06-05:55:01.088 209a Reusing old log /home/salvo/hugo/yttrex/methodology/profiles/biden1/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2020/11/06-05:55:07.596 209c Level-0 table #5: started
+2020/11/06-05:55:07.643 209c Level-0 table #5: 3397 bytes OK
+2020/11/06-05:55:07.682 209c Delete type=0 #3
+2020/11/06-05:55:07.682 209c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

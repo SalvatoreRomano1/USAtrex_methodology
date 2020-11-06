@@ -1,0 +1,555 @@
+[25995:1:0327/150618.947102:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[25995:1:0327/150618.947502:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[25995:1:0327/150618.948141:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[25995:1:0327/150618.948672:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[25927:25927:0327/150619.218743:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.youtube.com/watch?v=Lo_m_rKReyg (0)
+[25927:25927:0327/150619.234812:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?uilel=3&service=youtube&hl=en&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dpassive%26next%3D%252Fsignin_passive%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/watch?v=Lo_m_rKReyg (0)
+[25995:1:0327/150619.955707:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[25927:25927:0327/150620.262926:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://gstatic.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.youtube.com/watch?v=Lo_m_rKReyg (0)
+[25927:25927:0327/150620.528160:INFO:CONSOLE(35)] "yttrex version 1.2.2 [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150621.564462:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150623.356568:INFO:CONSOLE(0)] "The resource https://r7---sn-45nufxc-4jve.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/150623.356693:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/150623.356796:INFO:CONSOLE(0)] "The resource https://r7---sn-45nufxc-4jve.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/150628.549717:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Lo_m_rKReyg , sending 238992  <-  2 肺炎疫情：英國科學家成功複製冠狀病毒，疫苗將進行首次臨床試驗－ BBC News 中文
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150628.554400:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150628.559557:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Lo_m_rKReyg , sending 238992  <-  2 肺炎疫情：英國科學家成功複製冠狀病毒，疫苗將進行首次臨床試驗－ BBC News 中文
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150629.538158:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150636.542382:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Lo_m_rKReyg , sending 239009  <-  2 肺炎疫情：英國科學家成功複製冠狀病毒，疫苗將進行首次臨床試驗－ BBC News 中文
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150636.546095:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150636.551879:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Lo_m_rKReyg , sending 239009  <-  2 肺炎疫情：英國科學家成功複製冠狀病毒，疫苗將進行首次臨床試驗－ BBC News 中文
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150640.533343:INFO:CONSOLE(35)] "found video to flush (4) .ytp-title-channel,ytd-app,.ytp-title-channel,ytd-app with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150641.480819:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150644.541922:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Lo_m_rKReyg , sending 238996  <-  2 肺炎疫情：英國科學家成功複製冠狀病毒，疫苗將進行首次臨床試驗－ BBC News 中文
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150644.545158:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150644.551669:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Lo_m_rKReyg , sending 238996  <-  2 肺炎疫情：英國科學家成功複製冠狀病毒，疫苗將進行首次臨床試驗－ BBC News 中文
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150652.545673:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Lo_m_rKReyg , sending 238995  <-  2 肺炎疫情：英國科學家成功複製冠狀病毒，疫苗將進行首次臨床試驗－ BBC News 中文
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150652.548601:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150652.555757:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Lo_m_rKReyg , sending 238995  <-  2 肺炎疫情：英國科學家成功複製冠狀病毒，疫苗將進行首次臨床試驗－ BBC News 中文
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150700.406408:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://p2-fiub6hwl77ffa-45nwvy3fdcq4f4ej-747920-s1-v6exp3-v4.metric.gstatic.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.youtube.com/watch?v=Lo_m_rKReyg (0)
+[25927:25927:0327/150700.407465:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://metric.gstatic.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.youtube.com/watch?v=Lo_m_rKReyg (0)
+[25927:25927:0327/150700.621023:INFO:CONSOLE(35)] "found video to flush (2) ytd-app,ytd-app with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150700.644775:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Lo_m_rKReyg , sending 239008  <-  2 肺炎疫情：英國科學家成功複製冠狀病毒，疫苗將進行首次臨床試驗－ BBC News 中文
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150700.645769:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150700.651927:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Lo_m_rKReyg , sending 239008  <-  2 肺炎疫情：英國科學家成功複製冠狀病毒，疫苗將進行首次臨床試驗－ BBC News 中文
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150701.695338:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150708.545205:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Lo_m_rKReyg , sending 238995  <-  2 肺炎疫情：英國科學家成功複製冠狀病毒，疫苗將進行首次臨床試驗－ BBC News 中文
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150708.553993:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Lo_m_rKReyg , sending 238995  <-  2 肺炎疫情：英國科學家成功複製冠狀病毒，疫苗將進行首次臨床試驗－ BBC News 中文
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150716.539086:INFO:CONSOLE(35)] "6 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150720.534812:INFO:CONSOLE(35)] "found video to flush (1) ytd-app with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150721.080467:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150724.539067:INFO:CONSOLE(35)] "7 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150732.539265:INFO:CONSOLE(35)] "8 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150740.538622:INFO:CONSOLE(35)] "9 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150748.538593:INFO:CONSOLE(35)] "10 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150756.573679:INFO:CONSOLE(35)] "11 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150804.538646:INFO:CONSOLE(35)] "12 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150812.538990:INFO:CONSOLE(35)] "13 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150820.539212:INFO:CONSOLE(35)] "14 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150828.539262:INFO:CONSOLE(35)] "15 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150836.538640:INFO:CONSOLE(35)] "16 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150844.538601:INFO:CONSOLE(35)] "17 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150852.538737:INFO:CONSOLE(35)] "18 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150900.538593:INFO:CONSOLE(35)] "19 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150908.538690:INFO:CONSOLE(35)] "20 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150916.538665:INFO:CONSOLE(35)] "21 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150924.539273:INFO:CONSOLE(35)] "22 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150932.538735:INFO:CONSOLE(35)] "23 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150940.538884:INFO:CONSOLE(35)] "24 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150948.538886:INFO:CONSOLE(35)] "25 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/150956.538696:INFO:CONSOLE(35)] "26 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151004.539222:INFO:CONSOLE(35)] "27 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151012.538692:INFO:CONSOLE(35)] "28 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151020.538713:INFO:CONSOLE(35)] "29 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151028.538688:INFO:CONSOLE(35)] "30 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151036.538697:INFO:CONSOLE(35)] "31 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151044.539305:INFO:CONSOLE(35)] "32 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151052.538816:INFO:CONSOLE(35)] "33 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151100.539176:INFO:CONSOLE(35)] "34 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151108.539188:INFO:CONSOLE(35)] "35 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151116.538524:INFO:CONSOLE(35)] "36 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151124.538852:INFO:CONSOLE(35)] "37 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25995:1:0327/151131.550857:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[25995:1:0327/151131.551295:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[25927:25927:0327/151132.539182:INFO:CONSOLE(35)] "38 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151134.750701:INFO:CONSOLE(35)] "windowUnload undefined", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151137.052954:INFO:CONSOLE(35)] "yttrex version 1.2.2 [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151138.143181:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151140.048619:INFO:CONSOLE(0)] "The resource https://r4---sn-45nufxc-4jvl.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/151140.048734:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/151140.048801:INFO:CONSOLE(0)] "The resource https://r4---sn-45nufxc-4jvl.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/151145.112170:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Zh_SVHJGVHw , sending 250585  <-  2 ¿Qué le hace el coronavirus al cuerpo? | BBC Mundo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151145.130291:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151145.152634:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Zh_SVHJGVHw , sending 250585  <-  2 ¿Qué le hace el coronavirus al cuerpo? | BBC Mundo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151146.084171:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151153.102537:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Zh_SVHJGVHw , sending 250585  <-  2 ¿Qué le hace el coronavirus al cuerpo? | BBC Mundo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151153.138085:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Zh_SVHJGVHw , sending 250585  <-  2 ¿Qué le hace el coronavirus al cuerpo? | BBC Mundo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151157.061242:INFO:CONSOLE(35)] "found video to flush (3) .ytp-title-channel,ytd-app,.ytp-title-channel with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151157.800869:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151201.109400:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Zh_SVHJGVHw , sending 250585  <-  2 ¿Qué le hace el coronavirus al cuerpo? | BBC Mundo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151201.156715:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Zh_SVHJGVHw , sending 250585  <-  2 ¿Qué le hace el coronavirus al cuerpo? | BBC Mundo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151209.115181:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Zh_SVHJGVHw , sending 250585  <-  2 ¿Qué le hace el coronavirus al cuerpo? | BBC Mundo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151209.152707:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Zh_SVHJGVHw , sending 250585  <-  2 ¿Qué le hace el coronavirus al cuerpo? | BBC Mundo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151217.110155:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Zh_SVHJGVHw , sending 250585  <-  2 ¿Qué le hace el coronavirus al cuerpo? | BBC Mundo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151217.148476:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Zh_SVHJGVHw , sending 250585  <-  2 ¿Qué le hace el coronavirus al cuerpo? | BBC Mundo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151225.112896:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Zh_SVHJGVHw , sending 250585  <-  2 ¿Qué le hace el coronavirus al cuerpo? | BBC Mundo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151225.152986:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=Zh_SVHJGVHw , sending 250585  <-  2 ¿Qué le hace el coronavirus al cuerpo? | BBC Mundo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151233.084745:INFO:CONSOLE(35)] "6 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151241.085308:INFO:CONSOLE(35)] "7 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151249.085006:INFO:CONSOLE(35)] "8 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151257.084732:INFO:CONSOLE(35)] "9 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151305.084815:INFO:CONSOLE(35)] "10 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151314.032446:INFO:CONSOLE(35)] "11 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151322.032278:INFO:CONSOLE(35)] "12 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151330.240731:INFO:CONSOLE(35)] "13 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151338.032230:INFO:CONSOLE(35)] "14 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151346.032466:INFO:CONSOLE(35)] "15 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151354.032442:INFO:CONSOLE(35)] "16 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151402.032496:INFO:CONSOLE(35)] "17 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151410.032379:INFO:CONSOLE(35)] "18 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151418.032979:INFO:CONSOLE(35)] "19 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151426.049945:INFO:CONSOLE(35)] "20 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151434.032652:INFO:CONSOLE(35)] "21 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151442.032345:INFO:CONSOLE(35)] "22 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151450.032221:INFO:CONSOLE(35)] "23 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151458.032773:INFO:CONSOLE(35)] "24 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151506.048838:INFO:CONSOLE(35)] "25 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151514.032182:INFO:CONSOLE(35)] "26 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151522.032196:INFO:CONSOLE(35)] "27 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151530.033247:INFO:CONSOLE(35)] "28 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151538.033049:INFO:CONSOLE(35)] "29 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151546.032715:INFO:CONSOLE(35)] "30 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151554.032714:INFO:CONSOLE(35)] "31 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151602.032905:INFO:CONSOLE(35)] "32 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151610.032182:INFO:CONSOLE(35)] "33 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151618.032796:INFO:CONSOLE(35)] "34 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151626.032325:INFO:CONSOLE(35)] "35 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151630.970797:INFO:CONSOLE(35)] "windowUnload undefined", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151632.652223:INFO:CONSOLE(35)] "yttrex version 1.2.2 [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25995:1:0327/151632.944799:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[25995:1:0327/151632.945285:ERROR:child_process_sandbox_support_impl_linux.cc(79)] FontService unique font name matching request did not receive a response.
+[25927:25927:0327/151633.716377:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151633.726554:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151633.728485:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151635.553954:INFO:CONSOLE(0)] "The resource https://r8---sn-45nufxc-4jve.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/151635.554062:INFO:CONSOLE(0)] "The resource https://r8---sn-45nufxc-4jve.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/151635.554118:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/151640.674703:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=A2kiXc5XEdU , sending 261350  <-  2 How do I know if I have coronavirus? - BBC News
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151640.678184:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151640.683311:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=A2kiXc5XEdU , sending 261350  <-  2 How do I know if I have coronavirus? - BBC News
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151641.664475:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151641.666864:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151641.668482:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151642.665114:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151644.863016:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151648.672187:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=A2kiXc5XEdU , sending 261347  <-  2 How do I know if I have coronavirus? - BBC News
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151648.675513:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151648.680058:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=A2kiXc5XEdU , sending 261347  <-  2 How do I know if I have coronavirus? - BBC News
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151652.661873:INFO:CONSOLE(35)] "found video to flush (10) .ytp-title-channel,.ytp-ad-player-overlay-instream-info,.video-ads.ytp-ad-module,ytd-app,.ytp-title-channel,.ytp-ad-player-overlay-instream-info,.video-ads.ytp-ad-module,.video-ads.ytp-ad-module,.video-ads.ytp-ad-module,ytd-app with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151653.626681:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151656.927610:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=A2kiXc5XEdU , sending 261362  <-  2 How do I know if I have coronavirus? - BBC News
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151656.931787:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151656.937533:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=A2kiXc5XEdU , sending 261362  <-  2 How do I know if I have coronavirus? - BBC News
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151659.666814:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151704.670915:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=A2kiXc5XEdU , sending 261364  <-  2 How do I know if I have coronavirus? - BBC News
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151704.674657:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151704.679542:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=A2kiXc5XEdU , sending 261364  <-  2 How do I know if I have coronavirus? - BBC News
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151712.657213:INFO:CONSOLE(35)] "found video to flush (3) ytd-app,.video-ads.ytp-ad-module,ytd-app with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151712.678480:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=A2kiXc5XEdU , sending 261362  <-  2 How do I know if I have coronavirus? - BBC News
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151712.686647:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=A2kiXc5XEdU , sending 261362  <-  2 How do I know if I have coronavirus? - BBC News
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151713.479377:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151720.704828:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=A2kiXc5XEdU , sending 261377  <-  2 How do I know if I have coronavirus? - BBC News
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151720.709433:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151720.718095:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=A2kiXc5XEdU , sending 261377  <-  2 How do I know if I have coronavirus? - BBC News
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151728.665052:INFO:CONSOLE(35)] "6 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151732.660559:INFO:CONSOLE(35)] "found video to flush (1) ytd-app with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151733.224442:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151736.666888:INFO:CONSOLE(35)] "7 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151740.665023:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151745.605278:INFO:CONSOLE(35)] "8 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151746.031149:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.datadoghq.com/dg/monitor/aws-dashboards-vd/?utm_source=Advertisement&utm_medium=YouTubeAds&utm_campaign=YouTubeAds-AWSCV&utm_content=AWS&gclid=EAIaIQobChMI5JKG_Ou66AIVzsDeCh3ifAGcEAEYASAAEgK0u_D_BwE (0)
+[25927:25927:0327/151746.135940:INFO:CONSOLE(19)] "Munchkin.init("%s") options: 875-UVY-685 [object Object]", source: https://munchkin.marketo.net/157/munchkin.js (19)
+[25927:25927:0327/151746.218396:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://www.facebook.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.datadoghq.com/dg/monitor/aws-dashboards-vd/?utm_source=Advertisement&utm_medium=YouTubeAds&utm_campaign=YouTubeAds-AWSCV&utm_content=AWS&gclid=EAIaIQobChMI5JKG_Ou66AIVzsDeCh3ifAGcEAEYASAAEgK0u_D_BwE (0)
+[25927:25927:0327/151746.553045:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://app-sj16.marketo.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.datadoghq.com/dg/monitor/aws-dashboards-vd/?utm_source=Advertisement&utm_medium=YouTubeAds&utm_campaign=YouTubeAds-AWSCV&utm_content=AWS&gclid=EAIaIQobChMI5JKG_Ou66AIVzsDeCh3ifAGcEAEYASAAEgK0u_D_BwE (0)
+[25927:25927:0327/151747.849548:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151747.855580:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151752.659906:INFO:CONSOLE(35)] "found video to flush (3) .video-ads.ytp-ad-module,.ytp-title-channel,.video-ads.ytp-ad-module with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151752.839071:INFO:CONSOLE(35)] "9 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151753.100083:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151758.985979:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://yahoo.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.datadoghq.com/dg/monitor/aws-dashboards-vd/?utm_source=Advertisement&utm_medium=YouTubeAds&utm_campaign=YouTubeAds-AWSCV&utm_content=AWS&gclid=EAIaIQobChMI5JKG_Ou66AIVzsDeCh3ifAGcEAEYASAAEgK0u_D_BwE (0)
+[25927:25927:0327/151759.493323:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://sync.outbrain.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.datadoghq.com/dg/monitor/aws-dashboards-vd/?utm_source=Advertisement&utm_medium=YouTubeAds&utm_campaign=YouTubeAds-AWSCV&utm_content=AWS&gclid=EAIaIQobChMI5JKG_Ou66AIVzsDeCh3ifAGcEAEYASAAEgK0u_D_BwE (0)
+[25927:25927:0327/151759.689983:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://outbrain.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.datadoghq.com/dg/monitor/aws-dashboards-vd/?utm_source=Advertisement&utm_medium=YouTubeAds&utm_campaign=YouTubeAds-AWSCV&utm_content=AWS&gclid=EAIaIQobChMI5JKG_Ou66AIVzsDeCh3ifAGcEAEYASAAEgK0u_D_BwE (0)
+[25927:25927:0327/151800.506296:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://openx.net/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.datadoghq.com/dg/monitor/aws-dashboards-vd/?utm_source=Advertisement&utm_medium=YouTubeAds&utm_campaign=YouTubeAds-AWSCV&utm_content=AWS&gclid=EAIaIQobChMI5JKG_Ou66AIVzsDeCh3ifAGcEAEYASAAEgK0u_D_BwE (0)
+[25927:25927:0327/151800.665587:INFO:CONSOLE(35)] "10 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151808.665372:INFO:CONSOLE(35)] "11 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151816.665618:INFO:CONSOLE(35)] "12 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151824.664984:INFO:CONSOLE(35)] "13 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151832.666267:INFO:CONSOLE(35)] "14 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151840.664793:INFO:CONSOLE(35)] "15 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151848.665559:INFO:CONSOLE(35)] "16 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151856.890707:INFO:CONSOLE(35)] "17 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151904.665595:INFO:CONSOLE(35)] "18 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151912.666016:INFO:CONSOLE(35)] "19 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151920.664799:INFO:CONSOLE(35)] "20 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151924.110999:INFO:CONSOLE(35)] "windowUnload undefined", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151926.514690:INFO:CONSOLE(35)] "yttrex version 1.2.2 [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151927.548774:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151927.555965:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151929.414022:INFO:CONSOLE(0)] "The resource https://r5---sn-45nufxc-4jvl.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/151929.414191:INFO:CONSOLE(0)] "The resource https://r5---sn-45nufxc-4jvl.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/151929.414276:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/151934.582512:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=WEMpIQ30srI , sending 247593  <-  2 Coronavírus: O que a covid-19 faz com o seu corpo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151934.601963:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151934.623872:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=WEMpIQ30srI , sending 247593  <-  2 Coronavírus: O que a covid-19 faz com o seu corpo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151935.547405:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151935.551629:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151942.573957:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=WEMpIQ30srI , sending 247593  <-  2 Coronavírus: O que a covid-19 faz com o seu corpo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151942.613013:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=WEMpIQ30srI , sending 247593  <-  2 Coronavírus: O que a covid-19 faz com o seu corpo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151946.519208:INFO:CONSOLE(35)] "found video to flush (5) .ytp-title-channel,.video-ads.ytp-ad-module,ytd-app,.ytp-title-channel,.video-ads.ytp-ad-module with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151947.158522:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151950.574851:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=WEMpIQ30srI , sending 247696  <-  2 Coronavírus: O que a covid-19 faz com o seu corpo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151950.594458:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151950.613792:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=WEMpIQ30srI , sending 247696  <-  2 Coronavírus: O que a covid-19 faz com o seu corpo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151958.574750:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=WEMpIQ30srI , sending 247687  <-  2 Coronavírus: O que a covid-19 faz com o seu corpo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151958.593305:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/151958.612954:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=WEMpIQ30srI , sending 247687  <-  2 Coronavírus: O que a covid-19 faz com o seu corpo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152006.518245:INFO:CONSOLE(35)] "found video to flush (2) ytd-app,ytd-app with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152006.573159:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=WEMpIQ30srI , sending 247687  <-  2 Coronavírus: O que a covid-19 faz com o seu corpo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152006.616149:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=WEMpIQ30srI , sending 247687  <-  2 Coronavírus: O que a covid-19 faz com o seu corpo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152007.727599:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152014.576948:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=WEMpIQ30srI , sending 247687  <-  2 Coronavírus: O que a covid-19 faz com o seu corpo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152014.612697:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=WEMpIQ30srI , sending 247687  <-  2 Coronavírus: O que a covid-19 faz com o seu corpo
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152022.593162:INFO:CONSOLE(35)] "6 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152030.549176:INFO:CONSOLE(35)] "7 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152038.549703:INFO:CONSOLE(35)] "8 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152046.550106:INFO:CONSOLE(35)] "9 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152054.549759:INFO:CONSOLE(35)] "10 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152102.549457:INFO:CONSOLE(35)] "11 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152110.548040:INFO:CONSOLE(35)] "12 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152118.548479:INFO:CONSOLE(35)] "13 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152126.547299:INFO:CONSOLE(35)] "14 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152134.595626:INFO:CONSOLE(35)] "15 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152142.547318:INFO:CONSOLE(35)] "16 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152150.547390:INFO:CONSOLE(35)] "17 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152158.547371:INFO:CONSOLE(35)] "18 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152206.547314:INFO:CONSOLE(35)] "19 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152214.548996:INFO:CONSOLE(35)] "20 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152222.549127:INFO:CONSOLE(35)] "21 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152230.549019:INFO:CONSOLE(35)] "22 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152238.549610:INFO:CONSOLE(35)] "23 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152246.547841:INFO:CONSOLE(35)] "24 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152254.548280:INFO:CONSOLE(35)] "25 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152302.548322:INFO:CONSOLE(35)] "26 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152310.548564:INFO:CONSOLE(35)] "27 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152318.549840:INFO:CONSOLE(35)] "28 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152326.548982:INFO:CONSOLE(35)] "29 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152334.548521:INFO:CONSOLE(35)] "30 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152342.573741:INFO:CONSOLE(35)] "31 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152350.548102:INFO:CONSOLE(35)] "32 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152358.548385:INFO:CONSOLE(35)] "33 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152406.548971:INFO:CONSOLE(35)] "34 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152414.548480:INFO:CONSOLE(35)] "35 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152422.547645:INFO:CONSOLE(35)] "36 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152430.548202:INFO:CONSOLE(35)] "37 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152438.757331:INFO:CONSOLE(35)] "38 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152446.548788:INFO:CONSOLE(35)] "39 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152451.662227:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152451.672302:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152451.674069:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152452.547602:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152454.550158:INFO:CONSOLE(35)] "40 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152455.548082:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152457.547942:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152502.547737:INFO:CONSOLE(35)] "41 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152506.531418:INFO:CONSOLE(35)] "found video to flush (6) .ytp-title-channel,.ytp-ad-player-overlay-instream-info,.video-ads.ytp-ad-module,.video-ads.ytp-ad-module,.video-ads.ytp-ad-module,.video-ads.ytp-ad-module with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152507.004512:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152510.547764:INFO:CONSOLE(35)] "42 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152512.548214:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152518.547745:INFO:CONSOLE(35)] "43 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152526.518350:INFO:CONSOLE(35)] "found video to flush (1) .video-ads.ytp-ad-module with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152526.547718:INFO:CONSOLE(35)] "44 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152526.809568:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152534.705246:INFO:CONSOLE(35)] "45 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152542.547453:INFO:CONSOLE(35)] "46 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152549.547847:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152550.549118:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152550.552162:INFO:CONSOLE(35)] "47 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152552.549348:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152556.546805:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152558.547350:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152558.549472:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152558.550154:INFO:CONSOLE(35)] "48 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152601.550647:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152603.547993:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152606.519096:INFO:CONSOLE(35)] "found video to flush (8) .video-ads.ytp-ad-module,.video-ads.ytp-ad-module,.video-ads.ytp-ad-module,.ytp-title-channel,.ytp-ad-player-overlay-instream-info,.video-ads.ytp-ad-module,.video-ads.ytp-ad-module,.video-ads.ytp-ad-module with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152606.548010:INFO:CONSOLE(35)] "49 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152606.916932:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152613.906610:INFO:CONSOLE(35)] "windowUnload undefined", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152616.070583:INFO:CONSOLE(35)] "yttrex version 1.2.2 [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152617.128105:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152617.134784:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152619.064922:INFO:CONSOLE(0)] "The resource https://r3---sn-45nufxc-4jvl.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/152619.065103:INFO:CONSOLE(0)] "The resource https://r3---sn-45nufxc-4jvl.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/152619.065241:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[25927:25927:0327/152624.140934:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=BNdW_6TgxH0 , sending 238301  <-  2 فيروس كورونا: كيف تعرف إن كنت مصابا بالمرض؟
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152624.143990:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152624.149941:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=BNdW_6TgxH0 , sending 238301  <-  2 فيروس كورونا: كيف تعرف إن كنت مصابا بالمرض؟
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152625.127167:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152625.129624:INFO:CONSOLE(35)] "newVideo [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152632.133961:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=BNdW_6TgxH0 , sending 238301  <-  2 فيروس كورونا: كيف تعرف إن كنت مصابا بالمرض؟
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152632.140578:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=BNdW_6TgxH0 , sending 238301  <-  2 فيروس كورونا: كيف تعرف إن كنت مصابا بالمرض؟
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152636.075121:INFO:CONSOLE(35)] "found video to flush (5) .ytp-title-channel,.video-ads.ytp-ad-module,ytd-app,.ytp-title-channel,.video-ads.ytp-ad-module with 1 randomUUID(s)", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152636.646081:INFO:CONSOLE(35)] "syncResponse [object Object]", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152640.134942:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=BNdW_6TgxH0 , sending 238301  <-  2 فيروس كورونا: كيف تعرف إن كنت مصابا بالمرض؟
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152640.143412:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=BNdW_6TgxH0 , sending 238301  <-  2 فيروس كورونا: كيف تعرف إن كنت مصابا بالمرض؟
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152648.135409:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=BNdW_6TgxH0 , sending 238301  <-  2 فيروس كورونا: كيف تعرف إن كنت مصابا بالمرض؟
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152648.143831:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=BNdW_6TgxH0 , sending 238301  <-  2 فيروس كورونا: كيف تعرف إن كنت مصابا بالمرض؟
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152656.135176:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=BNdW_6TgxH0 , sending 238301  <-  2 فيروس كورونا: كيف تعرف إن كنت مصابا بالمرض؟
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152656.144393:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=BNdW_6TgxH0 , sending 238301  <-  2 فيروس كورونا: كيف تعرف إن كنت مصابا بالمرض؟
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152704.136141:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=BNdW_6TgxH0 , sending 238301  <-  2 فيروس كورونا: كيف تعرف إن كنت مصابا بالمرض؟
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152704.316036:INFO:CONSOLE(35)] "Video Selector match in  https://www.youtube.com/watch?v=BNdW_6TgxH0 , sending 238301  <-  2 فيروس كورونا: كيف تعرف إن كنت مصابا بالمرض؟
+              
+                
+              
+            ", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152712.247651:INFO:CONSOLE(35)] "6 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152720.127425:INFO:CONSOLE(35)] "7 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/152728.127612:INFO:CONSOLE(35)] "8 too many repetition: stop", source: chrome-extension://kbbgjcgdcibilpahljnlejefcehbljnd/app.js (35)
+[25927:25927:0327/153138.776650:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25927:25927:0327/153138.776692:WARNING:pref_notifier_impl.cc(40)] Pref observer for browser.relaunch_notification_period found at shutdown.

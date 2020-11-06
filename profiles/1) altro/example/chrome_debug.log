@@ -1,0 +1,2 @@
+[20214:20214:1023/182043.000965:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[20180:20180:1023/182110.353330:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

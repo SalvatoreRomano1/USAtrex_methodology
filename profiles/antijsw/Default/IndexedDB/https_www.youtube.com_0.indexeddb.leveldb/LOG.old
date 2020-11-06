@@ -1,0 +1,5 @@
+2020/11/06-05:55:00.625 1fc0 Reusing MANIFEST /home/salvo/hugo/yttrex/methodology/profiles/antijsw/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/06-05:55:08.910 1fa2 Level-0 table #5: started
+2020/11/06-05:55:08.935 1fa2 Level-0 table #5: 382 bytes OK
+2020/11/06-05:55:08.975 1fa2 Delete type=0 #3
+2020/11/06-05:55:08.975 1fa2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

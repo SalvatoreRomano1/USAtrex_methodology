@@ -1,0 +1,8 @@
+2020/11/06-05:55:02.261 210d Reusing MANIFEST /home/salvo/hugo/yttrex/methodology/profiles/trump1/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/06-05:55:02.261 210d Recovering log #7
+2020/11/06-05:55:02.285 210d Reusing old log /home/salvo/hugo/yttrex/methodology/profiles/trump1/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2020/11/06-05:55:06.126 20dc Level-0 table #11: started
+2020/11/06-05:55:06.126 20dc Level-0 table #11: 0 bytes OK
+2020/11/06-05:55:06.164 20dc Delete type=0 #7
+2020/11/06-05:55:06.165 20dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/06-05:55:06.165 20dc Manual compaction at level-1 from (begin) .. (end); will stop at (end)

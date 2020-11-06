@@ -1,0 +1,56 @@
+### userfull terminal scripts
+
+# check a profile 
+google-chrome -–user-data-dir=profiles/master/
+
+# run .py scripts "opener"
+python3 bin/opener.py config/master.txt
+
+# run .py scripts "autowatcher"
+python3 bin/autowatcher.py config/master.txt
+  
+  
+  
+  
+# check parallel profiles  
+(google-chrome -–user-data-dir=profiles/biden1/ & );(google-chrome -–user-data-dir=profiles/biden2/ & ); (google-chrome -–user-data-dir=profiles/trump1/ & );(google-chrome -–user-data-dir=profiles/trump2/ & ); (google-chrome -–user-data-dir=profiles/mainstream/ & );(google-chrome -–user-data-dir=profiles/conspiracy/ & ); (google-chrome -–user-data-dir=profiles/socialjustice/ & );(google-chrome -–user-data-dir=profiles/antri_jsw/ & );
+
+# run parallel "opener" (for search and neutral)
+(python3 bin/opener.py config/biden1.txt & ); (python3 bin/opener.py config/biden2.txt & ); (python3 bin/opener.py config/trump1.txt & ); (python3 bin/opener.py config/trump2.txt & );  (python3 bin/opener.py config/mainstream.txt & ); (python3 bin/opener.py config/conspiracy.txt & ); (python3 bin/opener.py config/socialjustice.txt & );(python3 bin/opener.py config/antijsw.txt & );
+
+# run parallel "autowatcher"
+(python3 bin/autowatcher.py config/biden1.txt & );(python3 bin/autowatcher.py config/biden2.txt & ); (python3 bin/autowatcher.py config/trump1.txt & );(python3 bin/autowatcher.py config/trump2.txt & ); (python3 bin/autowatcher.py config/mainstream.txt & );(python3 bin/autowatcher.py config/conspiracy.txt & ); (python3 bin/autowatcher.py config/socialjustice.txt & );(python3 bin/autowatcher.py config/antijsw.txt & );
+
+
+
+
+
+
+
+
+
+others scipts that didin't work
+--------------
+
+# run parallel "opener"  --- day1
+(python3 bin/opener.py config/1/biden1.txt & );(python3 bin/opener.py config/1/biden2.txt & ); (python3 bin/opener.py config/1/trump1.txt & );(python3 bin/opener.py config/1/trump2.txt & ); (python3 bin/opener.py config/1/mainstream.txt & );(python3 bin/opener.py config/1/conspiracy.txt & ); (python3 bin/opener.py config/1/socialjustice.txt & );(python3 bin/opener.py config/1/antijsw.txt & );
+
+
+# run parallel "autowatcher"  --- day1
+(python3 bin/autowatcher.py config/1/biden1.txt & );(python3 bin/autowatcher.py config/1/biden2.txt & ); (python3 bin/autowatcher.py config/1/trump1.txt & );(python3 bin/autowatcher.py config/1/trump2.txt & ); (python3 bin/autowatcher.py config/1/mainstream.txt & );(python3 bin/autowatcher.py config/1/conspiracy.txt & ); (python3 bin/autowatcher.py config/1/socialjustice.txt & );(python3 bin/autowatcher.py config/1/antijsw.txt & );
+
+
+
+
+
+## ADDING MORE DIRECTORIES (not working)
+
+# run parallel "opener" NEUTRAL  --- day1
+(python3 bin/opener.py config/neutral/1/biden1.txt & );(python3 bin/opener.py config/neutral/1/biden2.txt & ); (python3 bin/opener.py config/neutral/1/trump1.txt & );(python3 bin/opener.py config/neutral/1/trump2.txt & ); (python3 bin/opener.py config/neutral/1/mainstream.txt & );(python3 bin/opener.py config/neutral/1/conspiracy.txt & ); (python3 bin/opener.py config/neutral/1/socialjustice.txt & );(python3 bin/opener.py config/neutral/1/antijsw.txt & );
+
+# run parallel "opener" SEARCH  --- day1
+(python3 bin/opener.py config/search/1/biden1.txt & );(python3 bin/opener.py config/search/1/biden2.txt & ); (python3 bin/opener.py config/search/1/trump1.txt & );(python3 bin/opener.py config/search/1/trump2.txt & ); (python3 bin/opener.py config/search/1/mainstream.txt & );(python3 bin/opener.py config/search/1/conspiracy.txt & ); (python3 bin/opener.py config/search/1/socialjustice.txt & );(python3 bin/opener.py config/search/1/antijsw.txt & );
+
+# run parallel "autowatcher" PERSONALIZATION  --- day1
+(python3 bin/autowatcher.py config/personalization/1/biden1.txt & );(python3 bin/autowatcher.py config/personalization/1/biden2.txt & ); (python3 bin/autowatcher.py config/personalization/1/trump1.txt & );(python3 bin/autowatcher.py config/personalization/1/trump2.txt & ); (python3 bin/autowatcher.py config/personalization/1/mainstream.txt & );(python3 bin/autowatcher.py config/personalization/1/conspiracy.txt & ); (python3 bin/autowatcher.py config/personalization/1/socialjustice.txt & );(python3 bin/autowatcher.py config/personalization/1/antijsw.txt & );
+

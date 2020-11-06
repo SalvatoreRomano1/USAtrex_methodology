@@ -1,0 +1,4 @@
+[27787:27787:0100/000000.527886:ERROR:broker_posix.cc(43)] Invalid node channel message
+[27790:27790:1106/050123.580247:ERROR:broker_posix.cc(43)] Invalid node channel message
+[27787:27787:0100/000000.543734:INFO:child_thread_impl.cc(860)] ChildThreadImpl::EnsureConnected()
+[27790:27790:1106/050138.580863:INFO:child_thread_impl.cc(860)] ChildThreadImpl::EnsureConnected()

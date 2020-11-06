@@ -1,0 +1,29 @@
+{
+   "author": "The team of https://tracking.exposed",
+   "background": {
+      "persistent": false,
+      "scripts": [ "./background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "yttrex16.png",
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "js": [ "./app.js" ],
+      "matches": [ "https://youtube.tracking.exposed/*", "https://*.youtube.com/*" ]
+   } ],
+   "description": "A tool for academic researchers. Part of the tracking.exposed project, is meant to analyze the algorithm of a popular video portal.",
+   "icons": {
+      "128": "yttrex128.png",
+      "16": "yttrex16.png",
+      "48": "yttrex48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3JFlYVEcNMl6B2Nykgh5EP6H5j7OCyuER23b1/wBqr1oDkbnIsN+2s9zLSttUSnjQlFRAkh+NYaD3h/upyWSnERoq+OIcm7/LfBKoX5WIQk6Ef6weGMByImzn7TkkpXeItHTffC/GQb0VJKtaLOvqZUGAYjhUjO4LDk7Nhv3QGqpCXnmlUzm3MAreVgT3JjmcIiJxePsEUnlXiy25OM1BctFwig0y0ueUsaNRagwUzYfppC2LMFPNFOP4Lt+qfXn4OPHN67QgqKZM5C6j5pmkkX2VvwnTbAIhLNMCHMGixnltk/CyWuFyjKG+xvEsxXRkwda+pdZ0lgMGqQ42cr82QIDAQAB",
+   "manifest_version": 2,
+   "name": "ytTREX",
+   "permissions": [ "storage", "alarms", "https://*.youtube.com/", "https://youtube.tracking.exposed/" ],
+   "short_name": "ytTREX",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.2",
+   "web_accessible_resources": [ "*.png" ]
+}
